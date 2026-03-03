@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Licença MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-green?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Requests](https://img.shields.io/badge/requests-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Objetivo:** Automatizar a atualização de custos em tabelas de orçamento da construção civil, tipo curva-ABC, utilizando dados públicos da API do Banco Central do Brasil. 
